@@ -373,3 +373,23 @@ header {
     border-radius: 20px;
     
 }
+
+.pdf {
+    
+    position: fixed bottom;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    background: transparent;
+    border: 10px solid #0a212e;
+    
+    border-radius: 2px;
+    
+    font-size: 2em;
+    color: #133c4d;
+    font-weight: 5;   
+    transition: .5s;
+    backdrop-filter: blur(20px);
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
