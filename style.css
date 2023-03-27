@@ -360,7 +360,7 @@ header {
     box-shadow: 0 0 30px rgba(0, 0, 0, .5);
     backdrop-filter: blur(20px);
     color: #280e85;
-    border: 10px solid #2b3a10;
+    border: 10px solid ##74efff;
     border-radius: 20px;
 
 }
@@ -369,7 +369,7 @@ header {
 
     width: 500px;
     height: 400px;
-    border: 20px solid #2b3a10;
+    border: 20px solid ##74efff;
     border-radius: 20px;
     
 }
